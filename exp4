@@ -1,0 +1,7 @@
+import<stdio.h>
+using nampespace std;
+int main()
+{
+cout<<"hello from chandigarh university";
+return 0;
+}
